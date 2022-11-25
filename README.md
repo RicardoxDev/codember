@@ -23,5 +23,3 @@ By [Midudev](https://github.com/midudev) :man_technologist: :space_invader:
 - https://github.com/kyrex23/codember2022-midudev -> Kyrex (Java)
 - https://github.com/jpaddeo/codember -> Juan Pablo Addeo (PHP, Javascript)
 - https://github.com/dcross23/codember -> David Cruz García (Python)
-
-Si gustan colaborar o quieren que agregue sus soluciones ala lista los pull requests estan abiertos! :man_technologist: :tada:
